@@ -4,29 +4,29 @@ repo: status
 sites:
   - name: Aptitron (Server)
     url: http://aptitron.fractava.com/
-    favicon: https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png
+    icon: https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png
   - name: Website
     url: https://fractava.com
-    favicon: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
+    icon: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
   - name: Website Backend
     url: https://backend.fractava.com
-    favicon: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
+    icon: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
   - name: Greenytron (Server)
     url: http://cloud.fractava.com/
-    favicon: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
+    icon: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
     expectedStatusCodes:
       - 401
   - name: Nextcloud
     url: https://nextcloud.fractava.com
-    faviconSvg: https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054
-    favicon: https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.png?x53054
+    icon: https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054
+    #icon: https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.png?x53054
   - name: Onlyoffice
     url: https://onlyoffice.cloud.fractava.com/
-    faviconSvg: https://static-www.onlyoffice.com/images/press-downloads/logos/logo_symbol_color.svg
+    icon: https://static-www.onlyoffice.com/images/press-downloads/logos/logo_symbol_color.svg
   - name: Overleaf
     url: https://overleaf.treffler.cloud/
-    favicon: https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png
-    faviconSvg: https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg
+    #icon: https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png
+    icon: https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg
 
 status-website:
   cname: status.fractava.com
