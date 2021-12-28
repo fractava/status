@@ -32,7 +32,7 @@ sites:
 status-website:
   cname: status.fractava.com
   theme: night
-  css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+3), #sapper > main > section.live-status > article:nth-child(n+5):nth-child(-n+7) { margin-left: 50px; }"
+  css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+3), #sapper > main > section.live-status > article:nth-child(n+5):nth-child(-n+7) { margin-left: 40px; }"
   logoUrl: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
   name: FRACTAVA Status
   introTitle: "FRACTAVA Services Status"
