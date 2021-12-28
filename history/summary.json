@@ -5,18 +5,18 @@
     "icon": "https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png",
     "slug": "aptitron-server",
     "status": "down",
-    "uptime": "0.42%",
-    "uptimeDay": "0.42%",
-    "uptimeWeek": "0.42%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "0.42%",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-28": 120
+      "2021-12-28": 142
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "website",
     "status": "down",
-    "uptime": "0.42%",
-    "uptimeDay": "0.42%",
-    "uptimeWeek": "0.42%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "0.42%",
+    "uptime": "0.36%",
+    "uptimeDay": "0.36%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "0.36%",
+    "uptimeYear": "0.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-28": 121
+      "2021-12-28": 143
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "website-backend",
     "status": "down",
-    "uptime": "0.43%",
-    "uptimeDay": "0.43%",
-    "uptimeWeek": "0.43%",
-    "uptimeMonth": "0.43%",
-    "uptimeYear": "0.43%",
+    "uptime": "0.36%",
+    "uptimeDay": "0.36%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "0.36%",
+    "uptimeYear": "0.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-28": 121
+      "2021-12-28": 142
     }
   },
   {
@@ -65,16 +65,16 @@
     "icon": "https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg",
     "slug": "greenytron-server",
     "status": "up",
-    "uptime": "84.03%",
-    "uptimeDay": "84.03%",
-    "uptimeWeek": "84.03%",
-    "uptimeMonth": "84.03%",
-    "uptimeYear": "84.03%",
-    "time": 884,
-    "timeDay": 884,
-    "timeWeek": 884,
-    "timeMonth": 884,
-    "timeYear": 884,
+    "uptime": "86.47%",
+    "uptimeDay": "86.47%",
+    "uptimeWeek": "86.47%",
+    "uptimeMonth": "86.47%",
+    "uptimeYear": "86.47%",
+    "time": 870,
+    "timeDay": 870,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2021-12-28": 19
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2055,
-    "timeDay": 2055,
-    "timeWeek": 2055,
-    "timeMonth": 2055,
-    "timeYear": 2055,
+    "time": 1980,
+    "timeDay": 1980,
+    "timeWeek": 1980,
+    "timeMonth": 1980,
+    "timeYear": 1980,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 649,
-    "timeWeek": 649,
-    "timeMonth": 649,
-    "timeYear": 649,
+    "time": 652,
+    "timeDay": 652,
+    "timeWeek": 652,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {}
   },
   {
@@ -126,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 907,
-    "timeWeek": 907,
-    "timeMonth": 907,
-    "timeYear": 907,
+    "time": 896,
+    "timeDay": 896,
+    "timeWeek": 896,
+    "timeMonth": 896,
+    "timeYear": 896,
     "dailyMinutesDown": {}
   }
 ]
