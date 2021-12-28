@@ -28,10 +28,6 @@ sites:
   - name: CubeS (Server)
     url: http://status.macbrayne.de/
     icon: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
-  - name: Minecraft
-    check: "tcp-ping"
-    url: connect.macbrayne.de
-    port: 25565
 
 status-website:
   cname: status.fractava.com
