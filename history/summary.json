@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/fractava.com",
     "slug": "website",
     "status": "down",
-    "uptime": "27.35%",
-    "uptimeDay": "27.35%",
-    "uptimeWeek": "27.35%",
-    "uptimeMonth": "27.35%",
-    "uptimeYear": "27.35%",
+    "uptime": "2.46%",
+    "uptimeDay": "2.46%",
+    "uptimeWeek": "2.46%",
+    "uptimeMonth": "2.46%",
+    "uptimeYear": "2.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-28": 1
+      "2021-12-28": 20
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/backend.fractava.com",
     "slug": "website-backend",
     "status": "down",
-    "uptime": "38.56%",
-    "uptimeDay": "38.56%",
-    "uptimeWeek": "38.56%",
-    "uptimeMonth": "38.56%",
-    "uptimeYear": "38.56%",
+    "uptime": "2.56%",
+    "uptimeDay": "2.56%",
+    "uptimeWeek": "2.56%",
+    "uptimeMonth": "2.56%",
+    "uptimeYear": "2.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-28": 1
+      "2021-12-28": 20
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1801,
-    "timeDay": 1801,
-    "timeWeek": 1801,
-    "timeMonth": 1801,
-    "timeYear": 1801,
+    "time": 1735,
+    "timeDay": 1735,
+    "timeWeek": 1735,
+    "timeMonth": 1735,
+    "timeYear": 1735,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 868,
-    "timeDay": 868,
-    "timeWeek": 868,
-    "timeMonth": 868,
-    "timeYear": 868,
+    "time": 835,
+    "timeDay": 835,
+    "timeWeek": 835,
+    "timeMonth": 835,
+    "timeYear": 835,
     "dailyMinutesDown": {}
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://favicons.githubusercontent.com/aptitron.fractava.com",
     "slug": "aptitron-server",
     "status": "down",
-    "uptime": "66.33%",
-    "uptimeDay": "66.33%",
-    "uptimeWeek": "66.33%",
-    "uptimeMonth": "66.33%",
-    "uptimeYear": "66.33%",
+    "uptime": "2.54%",
+    "uptimeDay": "2.54%",
+    "uptimeWeek": "2.54%",
+    "uptimeMonth": "2.54%",
+    "uptimeYear": "2.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-28": 0
+      "2021-12-28": 19
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "http://cloud.fractava.com/",
     "icon": "https://favicons.githubusercontent.com/cloud.fractava.com",
     "slug": "greenytron-server",
-    "status": "down",
-    "uptime": "12.90%",
-    "uptimeDay": "12.90%",
-    "uptimeWeek": "12.90%",
-    "uptimeMonth": "12.90%",
-    "uptimeYear": "12.90%",
-    "time": 656,
-    "timeDay": 656,
-    "timeWeek": 656,
-    "timeMonth": 656,
-    "timeYear": 656,
+    "status": "up",
+    "uptime": "0.38%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "0.38%",
+    "uptimeMonth": "0.38%",
+    "uptimeYear": "0.38%",
+    "time": 713,
+    "timeDay": 713,
+    "timeWeek": 713,
+    "timeMonth": 713,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2021-12-28": 0
+      "2021-12-28": 19
     }
   }
 ]
