@@ -26,7 +26,7 @@ sites:
     url: https://overleaf.treffler.cloud/
     icon: https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg
   - name: CubeS (Server)
-    url: $CubeS_URL
+    url: $CUBES_URL
     icon: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
 
 status-website:
