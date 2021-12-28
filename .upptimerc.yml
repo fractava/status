@@ -2,21 +2,27 @@ owner: fractava
 repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://fractava.com
+  - name: Website Backend
+    url: https://backend.fractava.com
+  - name: Nextcloud
+    url: https://nextcloud.fractava.com
+  - name: Onlyoffice
+    url: https://onlyoffice.cloud.fractava.com/
+  - name: Overleaf
+    url: https://overleaf.treffler.cloud/
+  - name: Aptitron (Server)
+    url: http://aptitron.fractava.com/
+  - name: Greenytron (Server)
+    url: http://cloud.fractava.com/
 
 status-website:
   cname: status.fractava.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20schwarz.png
   name: FRACTAVA Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "FRACTAVA Services Status"
   introMessage: 
   navbar:
     - title: Status
