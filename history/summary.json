@@ -1,22 +1,42 @@
 [
   {
-    "name": "Website",
-    "url": "https://fractava.com",
-    "icon": "https://favicons.githubusercontent.com/fractava.com",
-    "slug": "website",
+    "name": "Aptitron (Server)",
+    "url": "http://aptitron.fractava.com/",
+    "icon": "https://favicons.githubusercontent.com/aptitron.fractava.com",
+    "slug": "aptitron-server",
     "status": "down",
-    "uptime": "2.45%",
-    "uptimeDay": "2.45%",
-    "uptimeWeek": "2.45%",
-    "uptimeMonth": "2.45%",
-    "uptimeYear": "2.45%",
+    "uptime": "1.32%",
+    "uptimeDay": "1.32%",
+    "uptimeWeek": "1.32%",
+    "uptimeMonth": "1.32%",
+    "uptimeYear": "1.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-28": 20
+      "2021-12-28": 37
+    }
+  },
+  {
+    "name": "Website",
+    "url": "https://fractava.com",
+    "icon": "https://favicons.githubusercontent.com/fractava.com",
+    "slug": "website",
+    "status": "down",
+    "uptime": "1.34%",
+    "uptimeDay": "1.34%",
+    "uptimeWeek": "1.34%",
+    "uptimeMonth": "1.34%",
+    "uptimeYear": "1.34%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-12-28": 38
     }
   },
   {
@@ -25,18 +45,38 @@
     "icon": "https://favicons.githubusercontent.com/backend.fractava.com",
     "slug": "website-backend",
     "status": "down",
-    "uptime": "2.54%",
-    "uptimeDay": "2.54%",
-    "uptimeWeek": "2.54%",
-    "uptimeMonth": "2.54%",
-    "uptimeYear": "2.54%",
+    "uptime": "1.38%",
+    "uptimeDay": "1.38%",
+    "uptimeWeek": "1.38%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "1.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-28": 20
+      "2021-12-28": 37
+    }
+  },
+  {
+    "name": "Greenytron (Server)",
+    "url": "http://cloud.fractava.com/",
+    "icon": "https://favicons.githubusercontent.com/cloud.fractava.com",
+    "slug": "greenytron-server",
+    "status": "up",
+    "uptime": "47.67%",
+    "uptimeDay": "47.67%",
+    "uptimeWeek": "47.67%",
+    "uptimeMonth": "47.67%",
+    "uptimeYear": "47.67%",
+    "time": 853,
+    "timeDay": 853,
+    "timeWeek": 853,
+    "timeMonth": 853,
+    "timeYear": 853,
+    "dailyMinutesDown": {
+      "2021-12-28": 19
     }
   },
   {
@@ -50,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1735,
-    "timeDay": 1735,
-    "timeWeek": 1735,
-    "timeMonth": 1735,
-    "timeYear": 1735,
+    "time": 1988,
+    "timeDay": 1988,
+    "timeWeek": 1988,
+    "timeMonth": 1988,
+    "timeYear": 1988,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 546,
-    "timeWeek": 546,
-    "timeMonth": 546,
-    "timeYear": 546,
+    "time": 646,
+    "timeDay": 646,
+    "timeWeek": 646,
+    "timeMonth": 646,
+    "timeYear": 646,
     "dailyMinutesDown": {}
   },
   {
@@ -86,51 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 835,
-    "timeWeek": 835,
-    "timeMonth": 835,
-    "timeYear": 835,
+    "time": 901,
+    "timeDay": 901,
+    "timeWeek": 901,
+    "timeMonth": 901,
+    "timeYear": 901,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Aptitron (Server)",
-    "url": "http://aptitron.fractava.com/",
-    "icon": "https://favicons.githubusercontent.com/aptitron.fractava.com",
-    "slug": "aptitron-server",
-    "status": "down",
-    "uptime": "2.54%",
-    "uptimeDay": "2.54%",
-    "uptimeWeek": "2.54%",
-    "uptimeMonth": "2.54%",
-    "uptimeYear": "2.54%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-12-28": 19
-    }
-  },
-  {
-    "name": "Greenytron (Server)",
-    "url": "http://cloud.fractava.com/",
-    "icon": "https://favicons.githubusercontent.com/cloud.fractava.com",
-    "slug": "greenytron-server",
-    "status": "up",
-    "uptime": "0.73%",
-    "uptimeDay": "0.73%",
-    "uptimeWeek": "0.73%",
-    "uptimeMonth": "0.73%",
-    "uptimeYear": "0.73%",
-    "time": 713,
-    "timeDay": 713,
-    "timeWeek": 713,
-    "timeMonth": 713,
-    "timeYear": 713,
-    "dailyMinutesDown": {
-      "2021-12-28": 19
-    }
   }
 ]
