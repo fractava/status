@@ -16,11 +16,14 @@ sites:
     url: http://aptitron.fractava.com/
   - name: Greenytron (Server)
     url: http://cloud.fractava.com/
+    expectedStatusCodes:
+      - 401
 
 status-website:
   cname: status.fractava.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20schwarz.png
+  theme: night
+  logoUrl: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
   name: FRACTAVA Status
   introTitle: "FRACTAVA Services Status"
   introMessage: 
