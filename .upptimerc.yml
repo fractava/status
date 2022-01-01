@@ -5,9 +5,6 @@ sites:
   - name: Aptitron (Server)
     url: http://aptitron.fractava.com/
     icon: https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png
-  - name: Website
-    url: https://fractava.com
-    icon: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
   - name: Website Backend
     url: https://backend.fractava.com
     icon: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
@@ -25,6 +22,9 @@ sites:
   - name: Overleaf
     url: https://overleaf.treffler.cloud/
     icon: https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg
+  - name: Website
+    url: https://fractava.com
+    icon: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
   - name: CubeS (Server)
     url: http://status.macbrayne.de/
     icon: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
@@ -32,7 +32,7 @@ sites:
 status-website:
   cname: status.fractava.com
   theme: night
-  css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+3), #sapper > main > section.live-status > article:nth-child(n+5):nth-child(-n+7) { margin-left: 40px; }"
+  css: "#sapper > main > section.live-status > article:nth-child(n+2), #sapper > main > section.live-status > article:nth-child(n+4):nth-child(-n+7) { margin-left: 40px; }"
   logoUrl: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
   name: FRACTAVA Status
   introTitle: "FRACTAVA Services Status"
