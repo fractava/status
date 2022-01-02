@@ -25,6 +25,9 @@ sites:
   - name: Website
     url: https://fractava.com
     icon: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
+  - name: BirdsiteLive
+    url: https://birdsitelive.treffler.cloud/
+    icon: https://raw.githubusercontent.com/fractava/status/master/img/BirdsiteLive.png
   - name: CubeS (Server)
     url: http://status.macbrayne.de/
     icon: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
