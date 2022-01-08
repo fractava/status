@@ -1,7 +1,7 @@
 url: https://proxy.treffler.cloud
-status: up
-code: 200
-responseTime: 710
-lastUpdated: 2022-01-08T00:21:48.308Z
+status: down
+code: 503
+responseTime: 1996
+lastUpdated: 2022-01-08T17:42:46.304Z
 startTime: Sun Jan 02 2022 22:48:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
