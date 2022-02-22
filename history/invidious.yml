@@ -1,7 +1,7 @@
 url: https://invidious.treffler.cloud/
-status: up
-code: 200
-responseTime: 1071
-lastUpdated: 2022-02-22T18:51:20.528Z
+status: down
+code: 502
+responseTime: 426
+lastUpdated: 2022-02-22T20:02:47.177Z
 startTime: Sun Jan 02 2022 22:52:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
