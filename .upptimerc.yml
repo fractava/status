@@ -17,7 +17,7 @@ sites:
     url: https://proxy.treffler.cloud
     icon: https://nginxproxymanager.com/icon.png
   - name: Nextcloud
-    url: https://nextcloud.fractava.com
+    url: https://nextcloud.fractava.com/status.php
     icon: https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054
   - name: Onlyoffice
     url: https://onlyoffice.cloud.fractava.com/
