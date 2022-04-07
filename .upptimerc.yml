@@ -16,6 +16,8 @@ sites:
   - name: Reverse Proxy
     url: https://proxy.treffler.cloud
     icon: https://nginxproxymanager.com/icon.png
+    expectedStatusCodes:
+      - 401
   - name: Nextcloud
     url: https://nextcloud.fractava.com/status.php
     icon: https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054
