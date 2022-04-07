@@ -13,11 +13,6 @@ sites:
     icon: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
     expectedStatusCodes:
       - 401
-  - name: Reverse Proxy
-    url: https://proxy.treffler.cloud
-    icon: https://nginxproxymanager.com/icon.png
-    expectedStatusCodes:
-      - 401
   - name: Nextcloud
     url: https://nextcloud.fractava.com/status.php
     icon: https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054
@@ -36,6 +31,11 @@ sites:
   - name: Invidious
     url: https://invidious.treffler.cloud/
     icon: https://raw.githubusercontent.com/iv-org/invidious/master/assets/mstile-150x150.png
+  - name: Hetzner Reverse Proxy
+    url: https://proxy.treffler.cloud
+    icon: https://nginxproxymanager.com/icon.png
+    expectedStatusCodes:
+      - 401
   - name: CubeS (Server)
     url: http://status.macbrayne.de/
     icon: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
@@ -43,7 +43,7 @@ sites:
 status-website:
   cname: status.fractava.com
   theme: night
-  css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+2), #sapper > main > section.live-status > article:nth-child(n+4):nth-child(-n+10) { margin-left: 40px; }"
+  css: "#sapper > main > section.live-status > article:nth-child(n+2):nth-child(-n+2), #sapper > main > section.live-status > article:nth-child(n+4):nth-child(-n+9) { margin-left: 40px; }"
   logoUrl: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
   name: FRACTAVA Status
   introTitle: "FRACTAVA Services Status"
