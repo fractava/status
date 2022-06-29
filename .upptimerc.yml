@@ -15,7 +15,7 @@ sites:
       - 401
   - name: Nextcloud
     url: https://nextcloud.fractava.com/status.php
-    icon: https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054
+    icon: https://apps.nextcloud.com/static/assets/img/logo-icon.svg
   - name: Onlyoffice
     url: https://onlyoffice.cloud.fractava.com/
     icon: https://static-www.onlyoffice.com/images/press-downloads/logos/logo_symbol_color.svg
