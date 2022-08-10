@@ -31,6 +31,22 @@ sites:
   - name: Invidious
     url: https://invidious.treffler.cloud/
     icon: https://raw.githubusercontent.com/iv-org/invidious/master/assets/mstile-150x150.png
+  - name: Piped
+    url: https://piped.treffler.cloud/
+    icon: https://raw.githubusercontent.com/TeamPiped/Piped/master/public/img/icons/favicon-32x32.png
+  - name: Libreddit
+    url: https://libreddit.treffler.cloud/
+    icon: https://raw.githubusercontent.com/spikecodes/libreddit/master/static/logo.png
+  - name: Bibliogram
+    url: https://bibliogram.treffler.cloud/
+    icon: https://git.sr.ht/~cadence/bibliogram/blob/master/art/logo-circle.png
+  - name: Nitter
+    url: https://nitter.treffler.cloud/
+    icon: https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png
+  - name: Searx
+    url: https://searx.treffler.cloud/
+    icon: https://raw.githubusercontent.com/searx/searx/master/docs/static/img/searx_logo_small.png
+    
   - name: CubeS (Server)
     url: http://status.macbrayne.de/
     icon: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
