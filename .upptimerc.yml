@@ -31,11 +31,6 @@ sites:
   - name: Invidious
     url: https://invidious.treffler.cloud/
     icon: https://raw.githubusercontent.com/iv-org/invidious/master/assets/mstile-150x150.png
-  - name: Hetzner Reverse Proxy
-    url: https://proxy.treffler.cloud
-    icon: https://nginxproxymanager.com/icon.png
-    expectedStatusCodes:
-      - 401
   - name: CubeS (Server)
     url: http://status.macbrayne.de/
     icon: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
