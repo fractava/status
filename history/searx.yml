@@ -1,7 +1,7 @@
 url: https://searx.treffler.cloud/
-status: up
-code: 200
-responseTime: 470
-lastUpdated: 2023-01-08T06:55:13.616Z
+status: down
+code: 502
+responseTime: 406
+lastUpdated: 2023-01-08T20:47:44.228Z
 startTime: Wed Aug 10 2022 09:39:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
