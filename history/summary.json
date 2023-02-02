@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 1431,
+      "2023-02-02": 63,
+      "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -379,8 +380,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 1431,
+      "2023-02-02": 63,
+      "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -763,8 +764,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   },
   {
@@ -777,7 +777,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.91%",
+    "uptimeYear": "79.92%",
     "time": 720,
     "timeDay": 528,
     "timeWeek": 636,
@@ -865,8 +865,7 @@
       "2022-02-22": 33,
       "2022-02-21": 360,
       "2022-02-11": 1158,
-      "2022-02-10": 152,
-      "2022-02-02": 603
+      "2022-02-10": 152
     }
   },
   {
@@ -877,7 +876,7 @@
     "status": "up",
     "uptime": "95.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "48.90%",
+    "uptimeWeek": "49.62%",
     "uptimeMonth": "76.81%",
     "uptimeYear": "94.74%",
     "time": 2187,
@@ -980,7 +979,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "96.24%",
+    "uptimeYear": "96.25%",
     "time": 2066,
     "timeDay": 454,
     "timeWeek": 663,
@@ -1045,8 +1044,7 @@
       "2022-02-09": 78,
       "2022-02-08": 1440,
       "2022-02-07": 262,
-      "2022-02-05": 650,
-      "2022-02-02": 599
+      "2022-02-05": 650
     }
   },
   {
@@ -1058,8 +1056,8 @@
     "uptime": "91.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.35%",
-    "uptimeYear": "91.21%",
+    "uptimeMonth": "87.52%",
+    "uptimeYear": "91.22%",
     "time": 1602,
     "timeDay": 497,
     "timeWeek": 681,
@@ -1135,8 +1133,7 @@
       "2022-02-09": 78,
       "2022-02-08": 1440,
       "2022-02-07": 316,
-      "2022-02-05": 650,
-      "2022-02-02": 599
+      "2022-02-05": 650
     }
   },
   {
@@ -1149,7 +1146,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "90.27%",
+    "uptimeYear": "90.29%",
     "time": 804,
     "timeDay": 375,
     "timeWeek": 431,
@@ -1225,8 +1222,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1346,
       "2022-02-06": 117,
-      "2022-02-05": 1387,
-      "2022-02-02": 597
+      "2022-02-05": 1387
     }
   },
   {
@@ -1235,7 +1231,7 @@
     "icon": "https://raw.githubusercontent.com/fractava/status/master/img/BirdsiteLive.png",
     "slug": "birdsite-live",
     "status": "down",
-    "uptime": "75.26%",
+    "uptime": "75.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1246,7 +1242,8 @@
     "timeMonth": 540,
     "timeYear": 850,
     "dailyMinutesDown": {
-      "2023-02-01": 1431,
+      "2023-02-02": 63,
+      "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -1363,8 +1360,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   },
   {
@@ -1373,7 +1369,7 @@
     "icon": "https://raw.githubusercontent.com/iv-org/invidious/master/assets/mstile-150x150.png",
     "slug": "invidious",
     "status": "up",
-    "uptime": "77.08%",
+    "uptime": "77.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "22.33%",
@@ -1384,7 +1380,8 @@
     "timeMonth": 805,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2023-02-01": 1431,
+      "2023-02-02": 63,
+      "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -1461,8 +1458,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   },
   {
@@ -1471,18 +1467,19 @@
     "icon": "https://raw.githubusercontent.com/TeamPiped/Piped/master/public/img/icons/favicon-32x32.png",
     "slug": "piped",
     "status": "up",
-    "uptime": "79.51%",
+    "uptime": "79.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "22.34%",
-    "uptimeYear": "79.51%",
+    "uptimeYear": "79.49%",
     "time": 247,
     "timeDay": 94,
     "timeWeek": 115,
     "timeMonth": 121,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2023-02-01": 1431,
+      "2023-02-02": 63,
+      "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -1536,7 +1533,7 @@
     "status": "up",
     "uptime": "95.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.54%",
+    "uptimeWeek": "76.25%",
     "uptimeMonth": "91.57%",
     "uptimeYear": "95.41%",
     "time": 3186,
@@ -1584,18 +1581,19 @@
     "icon": "https://git.sr.ht/~cadence/bibliogram/blob/master/art/logo-circle.png",
     "slug": "bibliogram",
     "status": "up",
-    "uptime": "92.55%",
+    "uptime": "92.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.65%",
-    "uptimeYear": "92.55%",
+    "uptimeMonth": "72.48%",
+    "uptimeYear": "92.53%",
     "time": 1116,
     "timeDay": 373,
     "timeWeek": 457,
     "timeMonth": 2395,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2023-02-01": 1432,
+      "2023-02-02": 63,
+      "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -1639,18 +1637,19 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "nitter",
     "status": "up",
-    "uptime": "85.74%",
+    "uptime": "85.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "51.06%",
-    "uptimeYear": "85.74%",
+    "uptimeYear": "85.71%",
     "time": 1019,
     "timeDay": 342,
     "timeWeek": 451,
     "timeMonth": 1423,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-02-01": 1432,
+      "2023-02-02": 63,
+      "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -1710,7 +1709,7 @@
     "time": 1322,
     "timeDay": 1552,
     "timeWeek": 1122,
-    "timeMonth": 1368,
+    "timeMonth": 1371,
     "timeYear": 1322,
     "dailyMinutesDown": {
       "2023-01-25": 38,
