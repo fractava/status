@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-01": 1342,
+      "2023-05-01": 1347,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-01": 1342,
+      "2023-05-01": 1347,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
@@ -868,16 +868,16 @@
     "url": "https://nextcloud.fractava.com/status.php",
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "96.14%",
-    "uptimeDay": "95.59%",
+    "uptimeDay": "95.62%",
     "uptimeWeek": "92.73%",
     "uptimeMonth": "97.86%",
-    "uptimeYear": "94.83%",
-    "time": 1926,
-    "timeDay": 616,
-    "timeWeek": 1150,
-    "timeMonth": 990,
+    "uptimeYear": "94.82%",
+    "time": 1925,
+    "timeDay": 918,
+    "timeWeek": 1202,
+    "timeMonth": 1001,
     "timeYear": 1909,
     "dailyMinutesDown": {
       "2023-05-01": 63,
@@ -962,7 +962,7 @@
       "2022-08-27": 66,
       "2022-08-26": 61,
       "2022-08-24": 19,
-      "2022-08-23": 32
+      "2022-08-23": 61
     }
   },
   {
@@ -1212,7 +1212,7 @@
     "timeMonth": 484,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2023-05-01": 1343,
+      "2023-05-01": 1347,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
