@@ -1,7 +1,7 @@
 url: https://bibliogram.treffler.cloud/
-status: up
-code: 200
-responseTime: 459
-lastUpdated: 2023-05-23T23:12:25.698Z
+status: down
+code: 502
+responseTime: 405
+lastUpdated: 2023-05-24T21:53:57.085Z
 startTime: Wed Aug 10 2022 09:39:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
