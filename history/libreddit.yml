@@ -1,7 +1,7 @@
 url: https://libreddit.treffler.cloud/
-status: up
-code: 200
-responseTime: 2023
-lastUpdated: 2023-06-11T23:12:45.061Z
+status: down
+code: 502
+responseTime: 434
+lastUpdated: 2023-06-12T10:37:12.091Z
 startTime: Wed Aug 10 2022 09:39:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
