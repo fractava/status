@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-02": 570,
+      "2023-07-02": 583,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-02": 570,
+      "2023-07-02": 583,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -868,19 +868,19 @@
     "url": "https://nextcloud.fractava.com/status.php",
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "96.58%",
-    "uptimeDay": "81.25%",
-    "uptimeWeek": "94.64%",
+    "uptimeDay": "81.16%",
+    "uptimeWeek": "94.62%",
     "uptimeMonth": "91.30%",
-    "uptimeYear": "94.83%",
+    "uptimeYear": "94.84%",
     "time": 1872,
     "timeDay": 6132,
     "timeWeek": 2438,
     "timeMonth": 1715,
     "timeYear": 1957,
     "dailyMinutesDown": {
-      "2023-07-02": 270,
+      "2023-07-02": 271,
       "2023-06-25": 428,
       "2023-06-21": 59,
       "2023-06-18": 1049,
@@ -958,8 +958,7 @@
       "2022-11-06": 150,
       "2022-11-05": 1440,
       "2022-11-04": 609,
-      "2022-10-31": 23,
-      "2022-10-24": 27
+      "2022-10-31": 23
     }
   },
   {
@@ -1226,7 +1225,7 @@
     "icon": "https://raw.githubusercontent.com/fractava/status/master/img/BirdsiteLive.png",
     "slug": "birdsite-live",
     "status": "down",
-    "uptime": "54.51%",
+    "uptime": "54.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1237,7 +1236,7 @@
     "timeMonth": 519,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-07-02": 570,
+      "2023-07-02": 584,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -1721,7 +1720,7 @@
     "uptime": "73.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.73%",
+    "uptimeMonth": "9.69%",
     "uptimeYear": "73.11%",
     "time": 920,
     "timeDay": 476,
@@ -1729,7 +1728,7 @@
     "timeMonth": 522,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2023-07-02": 570,
+      "2023-07-02": 584,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
