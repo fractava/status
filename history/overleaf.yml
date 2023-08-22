@@ -1,7 +1,7 @@
 url: https://overleaf.treffler.cloud/
-status: up
-code: 200
-responseTime: 454
-lastUpdated: 2023-08-21T23:11:48.061Z
+status: down
+code: 502
+responseTime: 424
+lastUpdated: 2023-08-22T15:55:16.608Z
 startTime: 2021-12-28T13:21:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
