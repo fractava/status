@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-29": 1111,
+      "2023-08-29": 1116,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-29": 1111,
+      "2023-08-29": 1116,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -863,17 +863,17 @@
     "url": "https://nextcloud.fractava.com/status.php",
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "97.17%",
-    "uptimeDay": "92.26%",
-    "uptimeWeek": "98.89%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "93.09%",
     "uptimeYear": "95.28%",
-    "time": 1946,
-    "timeDay": 596,
-    "timeWeek": 599,
-    "timeMonth": 2314,
-    "timeYear": 1914,
+    "time": 1945,
+    "timeDay": 601,
+    "timeWeek": 602,
+    "timeMonth": 2300,
+    "timeYear": 1913,
     "dailyMinutesDown": {
       "2023-08-29": 111,
       "2023-08-22": 86,
@@ -949,7 +949,7 @@
       "2023-01-20": 67,
       "2023-01-18": 24,
       "2023-01-15": 931,
-      "2023-01-14": 286
+      "2023-01-14": 295
     }
   },
   {
@@ -1230,7 +1230,7 @@
     "timeMonth": 0,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-08-29": 1112,
+      "2023-08-29": 1116,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -1677,7 +1677,7 @@
     "icon": "https://raw.githubusercontent.com/spikecodes/libreddit/master/static/logo.png",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "85.74%",
+    "uptime": "85.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1688,7 +1688,7 @@
     "timeMonth": 541,
     "timeYear": 2839,
     "dailyMinutesDown": {
-      "2023-08-29": 1112,
+      "2023-08-29": 1117,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -1799,7 +1799,7 @@
     "timeMonth": 553,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2023-08-29": 1112,
+      "2023-08-29": 1117,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -2131,7 +2131,7 @@
     "timeMonth": 672,
     "timeYear": 1333,
     "dailyMinutesDown": {
-      "2023-08-29": 1112,
+      "2023-08-29": 1117,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
