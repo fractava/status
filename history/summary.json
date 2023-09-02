@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-02": 315,
+      "2023-09-02": 321,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-02": 315,
+      "2023-09-02": 321,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -863,10 +863,10 @@
     "url": "https://nextcloud.fractava.com/status.php",
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.20%",
-    "uptimeDay": "91.49%",
-    "uptimeWeek": "97.64%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "97.62%",
     "uptimeMonth": "96.10%",
     "uptimeYear": "95.30%",
     "time": 1971,
@@ -875,7 +875,7 @@
     "timeMonth": 2718,
     "timeYear": 1958,
     "dailyMinutesDown": {
-      "2023-09-02": 122,
+      "2023-09-02": 124,
       "2023-08-30": 4,
       "2023-08-29": 111,
       "2023-08-22": 86,
@@ -951,7 +951,7 @@
       "2023-01-20": 67,
       "2023-01-18": 24,
       "2023-01-15": 931,
-      "2023-01-14": 79
+      "2023-01-14": 52
     }
   },
   {
@@ -961,9 +961,9 @@
     "slug": "onlyoffice",
     "status": "down",
     "uptime": "98.05%",
-    "uptimeDay": "89.64%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "95.99%",
+    "uptimeDay": "89.22%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "95.98%",
     "uptimeYear": "96.72%",
     "time": 3698,
     "timeDay": 8242,
@@ -971,7 +971,7 @@
     "timeMonth": 7015,
     "timeYear": 3931,
     "dailyMinutesDown": {
-      "2023-09-02": 149,
+      "2023-09-02": 155,
       "2023-08-22": 84,
       "2023-08-21": 712,
       "2023-08-17": 62,
@@ -1038,13 +1038,13 @@
     "url": "https://overleaf.treffler.cloud/",
     "icon": "https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg",
     "slug": "overleaf",
-    "status": "up",
-    "uptime": "96.45%",
-    "uptimeDay": "90.22%",
-    "uptimeWeek": "98.57%",
+    "status": "down",
+    "uptime": "96.56%",
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "98.56%",
     "uptimeMonth": "97.38%",
-    "uptimeYear": "94.05%",
-    "time": 2231,
+    "uptimeYear": "94.22%",
+    "time": 2232,
     "timeDay": 747,
     "timeWeek": 1008,
     "timeMonth": 5965,
@@ -1118,8 +1118,7 @@
       "2022-10-31": 23,
       "2022-10-22": 144,
       "2022-10-03": 195,
-      "2022-10-01": 58,
-      "2022-09-26": 918
+      "2022-10-01": 58
     }
   },
   {
@@ -1226,7 +1225,7 @@
     "timeMonth": 0,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2023-09-02": 316,
+      "2023-09-02": 322,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -1682,7 +1681,7 @@
     "timeMonth": 537,
     "timeYear": 2831,
     "dailyMinutesDown": {
-      "2023-09-02": 316,
+      "2023-09-02": 322,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -1784,7 +1783,7 @@
     "icon": "https://git.sr.ht/~cadence/bibliogram/blob/master/art/logo-circle.png",
     "slug": "bibliogram",
     "status": "down",
-    "uptime": "61.46%",
+    "uptime": "61.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1795,7 +1794,7 @@
     "timeMonth": 542,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2023-09-02": 316,
+      "2023-09-02": 322,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -2123,7 +2122,7 @@
     "uptime": "85.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "8.99%",
+    "uptimeMonth": "8.97%",
     "uptimeYear": "84.36%",
     "time": 1316,
     "timeDay": 747,
@@ -2131,7 +2130,7 @@
     "timeMonth": 612,
     "timeYear": 1333,
     "dailyMinutesDown": {
-      "2023-09-02": 316,
+      "2023-09-02": 322,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
