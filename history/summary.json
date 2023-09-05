@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-05": 727,
+      "2023-09-05": 731,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-05": 727,
+      "2023-09-05": 731,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -1036,19 +1036,19 @@
     "url": "https://overleaf.treffler.cloud/",
     "icon": "https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg",
     "slug": "overleaf",
-    "status": "up",
-    "uptime": "96.53%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "92.08%",
+    "status": "down",
+    "uptime": "96.55%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "92.07%",
     "uptimeMonth": "96.72%",
-    "uptimeYear": "94.14%",
-    "time": 2275,
+    "uptimeYear": "94.17%",
+    "time": 2277,
     "timeDay": 5161,
     "timeWeek": 2816,
     "timeMonth": 4991,
     "timeYear": 2454,
     "dailyMinutesDown": {
-      "2023-09-05": 22,
+      "2023-09-05": 23,
       "2023-09-02": 773,
       "2023-08-30": 4,
       "2023-08-22": 91,
@@ -1114,8 +1114,7 @@
       "2022-11-06": 150,
       "2022-11-05": 1440,
       "2022-11-04": 606,
-      "2022-10-31": 23,
-      "2022-10-22": 144
+      "2022-10-31": 23
     }
   },
   {
@@ -1221,7 +1220,7 @@
     "timeMonth": 0,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-09-05": 727,
+      "2023-09-05": 731,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -1675,7 +1674,7 @@
     "timeMonth": 539,
     "timeYear": 2830,
     "dailyMinutesDown": {
-      "2023-09-05": 727,
+      "2023-09-05": 731,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -1790,7 +1789,7 @@
     "timeMonth": 540,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2023-09-05": 727,
+      "2023-09-05": 731,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -2118,8 +2117,8 @@
     "slug": "searx",
     "status": "up",
     "uptime": "84.29%",
-    "uptimeDay": "0.88%",
-    "uptimeWeek": "0.13%",
+    "uptimeDay": "1.17%",
+    "uptimeWeek": "0.17%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "83.47%",
     "time": 1314,
