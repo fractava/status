@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-13": 313,
+      "2023-09-13": 319,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-13": 313,
+      "2023-09-13": 319,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -855,9 +855,9 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "97.31%",
-    "uptimeDay": "93.70%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "97.88%",
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "95.41%",
     "time": 1913,
     "timeDay": 588,
@@ -865,7 +865,7 @@
     "timeMonth": 1728,
     "timeYear": 1954,
     "dailyMinutesDown": {
-      "2023-09-13": 91,
+      "2023-09-13": 97,
       "2023-09-05": 317,
       "2023-09-02": 150,
       "2023-08-30": 4,
@@ -949,19 +949,19 @@
     "url": "https://onlyoffice.cloud.fractava.com/",
     "icon": "https://static-www.onlyoffice.com/images/press-downloads/logos/logo_symbol_color.svg",
     "slug": "onlyoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "98.00%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "95.73%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "96.58%",
-    "time": 3828,
+    "time": 3832,
     "timeDay": 6806,
     "timeWeek": 4324,
     "timeMonth": 4198,
     "timeYear": 4052,
     "dailyMinutesDown": {
-      "2023-09-13": 35,
+      "2023-09-13": 37,
       "2023-09-05": 191,
       "2023-09-02": 790,
       "2023-08-22": 84,
@@ -1020,8 +1020,7 @@
       "2022-11-06": 150,
       "2022-11-05": 1440,
       "2022-11-04": 607,
-      "2022-10-31": 25,
-      "2022-10-22": 34
+      "2022-10-31": 25
     }
   },
   {
@@ -1029,13 +1028,13 @@
     "url": "https://overleaf.treffler.cloud/",
     "icon": "https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg",
     "slug": "overleaf",
-    "status": "up",
-    "uptime": "96.37%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "67.43%",
-    "uptimeMonth": "87.87%",
-    "uptimeYear": "93.79%",
-    "time": 2355,
+    "status": "down",
+    "uptime": "96.43%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "67.49%",
+    "uptimeMonth": "87.86%",
+    "uptimeYear": "93.90%",
+    "time": 2357,
     "timeDay": 2335,
     "timeWeek": 1390,
     "timeMonth": 2436,
@@ -1105,8 +1104,7 @@
       "2022-12-30": 546,
       "2022-12-25": 104,
       "2022-12-24": 386,
-      "2022-11-14": 14,
-      "2022-11-09": 580
+      "2022-11-14": 14
     }
   },
   {
@@ -1212,7 +1210,7 @@
     "timeMonth": 0,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2023-09-13": 313,
+      "2023-09-13": 319,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -1661,7 +1659,7 @@
     "timeMonth": 549,
     "timeYear": 2675,
     "dailyMinutesDown": {
-      "2023-09-13": 313,
+      "2023-09-13": 319,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -1782,7 +1780,7 @@
     "timeMonth": 534,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-09-13": 313,
+      "2023-09-13": 319,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -2126,7 +2124,7 @@
     "timeMonth": 623,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2023-09-13": 313,
+      "2023-09-13": 320,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
