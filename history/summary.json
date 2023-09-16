@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-16": 977,
+      "2023-09-16": 981,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-16": 977,
+      "2023-09-16": 981,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -852,9 +852,9 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "98.21%",
-    "uptimeDay": "89.02%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "97.20%",
+    "uptimeDay": "88.71%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "97.19%",
     "uptimeYear": "96.93%",
     "time": 1949,
     "timeDay": 478,
@@ -862,7 +862,7 @@
     "timeMonth": 2178,
     "timeYear": 1994,
     "dailyMinutesDown": {
-      "2023-09-16": 158,
+      "2023-09-16": 163,
       "2023-09-13": 230,
       "2023-09-05": 317,
       "2023-09-02": 150,
@@ -937,10 +937,10 @@
     "icon": "https://static-www.onlyoffice.com/images/press-downloads/logos/logo_symbol_color.svg",
     "slug": "onlyoffice",
     "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "95.32%",
+    "uptime": "98.30%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "95.35%",
     "uptimeYear": "97.09%",
     "time": 3708,
     "timeDay": 7678,
@@ -948,7 +948,7 @@
     "timeMonth": 4722,
     "timeYear": 4096,
     "dailyMinutesDown": {
-      "2023-09-16": 38,
+      "2023-09-16": 26,
       "2023-09-13": 174,
       "2023-09-05": 191,
       "2023-09-02": 790,
@@ -1001,7 +1001,8 @@
       "2022-12-30": 370,
       "2022-12-25": 122,
       "2022-12-24": 384,
-      "2022-11-21": 17
+      "2022-11-21": 17,
+      "2022-11-14": 14
     }
   },
   {
@@ -1009,19 +1010,19 @@
     "url": "https://overleaf.treffler.cloud/",
     "icon": "https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg",
     "slug": "overleaf",
-    "status": "down",
+    "status": "up",
     "uptime": "96.48%",
-    "uptimeDay": "98.38%",
+    "uptimeDay": "98.42%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "87.40%",
     "uptimeYear": "93.95%",
-    "time": 2500,
-    "timeDay": 2731,
-    "timeWeek": 4755,
-    "timeMonth": 3391,
-    "timeYear": 2577,
+    "time": 2511,
+    "timeDay": 4207,
+    "timeWeek": 4953,
+    "timeMonth": 3479,
+    "timeYear": 2588,
     "dailyMinutesDown": {
-      "2023-09-16": 24,
+      "2023-09-16": 23,
       "2023-09-13": 218,
       "2023-09-08": 678,
       "2023-09-07": 1440,
@@ -1084,7 +1085,7 @@
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 546,
-      "2022-12-25": 43
+      "2022-12-25": 61
     }
   },
   {
@@ -1191,7 +1192,7 @@
     "timeMonth": 0,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2023-09-16": 977,
+      "2023-09-16": 982,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -1640,7 +1641,7 @@
     "timeMonth": 548,
     "timeYear": 2666,
     "dailyMinutesDown": {
-      "2023-09-16": 977,
+      "2023-09-16": 982,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -1764,7 +1765,7 @@
     "timeMonth": 535,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2023-09-16": 977,
+      "2023-09-16": 982,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -2112,7 +2113,7 @@
     "timeMonth": 625,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2023-09-16": 977,
+      "2023-09-16": 982,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
