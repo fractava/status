@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-24": 1133,
+      "2023-09-24": 1138,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-24": 1133,
+      "2023-09-24": 1138,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -995,17 +995,17 @@
     "url": "https://overleaf.treffler.cloud/",
     "icon": "https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg",
     "slug": "overleaf",
-    "status": "down",
+    "status": "up",
     "uptime": "97.34%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "98.02%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "98.08%",
     "uptimeMonth": "84.47%",
     "uptimeYear": "95.37%",
-    "time": 2798,
-    "timeDay": 1017,
-    "timeWeek": 4458,
-    "timeMonth": 5941,
-    "timeYear": 2984,
+    "time": 2834,
+    "timeDay": 7899,
+    "timeWeek": 5726,
+    "timeMonth": 6165,
+    "timeYear": 3021,
     "dailyMinutesDown": {
       "2023-09-24": 40,
       "2023-09-21": 121,
@@ -1063,7 +1063,7 @@
       "2023-04-10": 21,
       "2023-03-24": 91,
       "2023-03-22": 89,
-      "2023-03-18": 204
+      "2023-03-18": 213
     }
   },
   {
@@ -1173,7 +1173,7 @@
     "timeMonth": 0,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2023-09-24": 1133,
+      "2023-09-24": 1139,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -1627,7 +1627,7 @@
     "timeMonth": 558,
     "timeYear": 2649,
     "dailyMinutesDown": {
-      "2023-09-24": 1133,
+      "2023-09-24": 1139,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -1759,7 +1759,7 @@
     "timeMonth": 539,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2023-09-24": 1133,
+      "2023-09-24": 1139,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -1966,7 +1966,7 @@
     "slug": "nitter",
     "status": "up",
     "uptime": "80.47%",
-    "uptimeDay": "1.21%",
+    "uptimeDay": "1.62%",
     "uptimeWeek": "84.08%",
     "uptimeMonth": "94.58%",
     "uptimeYear": "78.34%",
@@ -2119,7 +2119,7 @@
     "timeMonth": 550,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2023-09-24": 1133,
+      "2023-09-24": 1139,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -2257,8 +2257,8 @@
     "status": "up",
     "uptime": "93.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.52%",
-    "uptimeMonth": "89.53%",
+    "uptimeWeek": "54.46%",
+    "uptimeMonth": "89.52%",
     "uptimeYear": "92.09%",
     "time": 400,
     "timeDay": 281,
@@ -2266,7 +2266,7 @@
     "timeMonth": 389,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-09-24": 1133,
+      "2023-09-24": 1139,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 571,
