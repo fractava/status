@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 1177,
+      "2023-10-03": 1182,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 1178,
+      "2023-10-03": 1182,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -833,17 +833,17 @@
     "url": "https://nextcloud.fractava.com/status.php",
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "97.95%",
-    "uptimeDay": "23.93%",
-    "uptimeWeek": "59.27%",
+    "status": "up",
+    "uptime": "97.94%",
+    "uptimeDay": "23.95%",
+    "uptimeWeek": "59.28%",
     "uptimeMonth": "85.74%",
-    "uptimeYear": "96.38%",
-    "time": 2114,
-    "timeDay": 6638,
-    "timeWeek": 2852,
-    "timeMonth": 3455,
-    "timeYear": 2132,
+    "uptimeYear": "96.37%",
+    "time": 2113,
+    "timeDay": 6636,
+    "timeWeek": 2772,
+    "timeMonth": 3435,
+    "timeYear": 2130,
     "dailyMinutesDown": {
       "2023-10-03": 980,
       "2023-10-02": 115,
@@ -904,7 +904,8 @@
       "2023-05-03": 87,
       "2023-05-02": 144,
       "2023-05-01": 63,
-      "2023-04-29": 647
+      "2023-04-29": 647,
+      "2023-04-26": 23
     }
   },
   {
@@ -1140,7 +1141,7 @@
     "icon": "https://raw.githubusercontent.com/fractava/status/master/img/BirdsiteLive.png",
     "slug": "birdsite-live",
     "status": "down",
-    "uptime": "46.54%",
+    "uptime": "46.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1151,7 +1152,7 @@
     "timeMonth": 0,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2023-10-03": 1178,
+      "2023-10-03": 1182,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -1610,7 +1611,7 @@
     "timeMonth": 559,
     "timeYear": 2633,
     "dailyMinutesDown": {
-      "2023-10-03": 1178,
+      "2023-10-03": 1182,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -1738,7 +1739,7 @@
     "icon": "https://git.sr.ht/~cadence/bibliogram/blob/master/art/logo-circle.png",
     "slug": "bibliogram",
     "status": "down",
-    "uptime": "56.83%",
+    "uptime": "56.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1749,7 +1750,7 @@
     "timeMonth": 540,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-10-03": 1178,
+      "2023-10-03": 1182,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -2115,7 +2116,7 @@
     "timeMonth": 548,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2023-10-03": 1178,
+      "2023-10-03": 1182,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -2269,7 +2270,7 @@
     "timeMonth": 392,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-10-03": 1178,
+      "2023-10-03": 1183,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
