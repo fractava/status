@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-28": 1392,
+      "2023-10-29": 53,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -379,8 +380,7 @@
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
-      "2022-10-30": 1440,
-      "2022-10-29": 1440
+      "2022-10-30": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-28": 1392,
+      "2023-10-29": 53,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -763,8 +764,7 @@
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
-      "2022-10-30": 1440,
-      "2022-10-29": 1440
+      "2022-10-30": 1440
     }
   },
   {
@@ -777,11 +777,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.78%",
+    "uptimeYear": "95.80%",
     "time": 714,
-    "timeDay": 826,
+    "timeDay": 0,
     "timeWeek": 660,
-    "timeMonth": 647,
+    "timeMonth": 645,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2023-08-30": 4,
@@ -799,8 +799,7 @@
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
-      "2022-10-30": 1440,
-      "2022-10-29": 1440
+      "2022-10-30": 1440
     }
   },
   {
@@ -809,18 +808,17 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "98.09%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.39%",
+    "uptime": "98.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "96.30%",
-    "uptimeYear": "96.49%",
+    "uptimeYear": "96.48%",
     "time": 2105,
     "timeDay": 532,
     "timeWeek": 646,
-    "timeMonth": 1643,
-    "timeYear": 2072,
+    "timeMonth": 1659,
+    "timeYear": 2073,
     "dailyMinutesDown": {
-      "2023-10-28": 3,
       "2023-10-22": 59,
       "2023-10-21": 32,
       "2023-10-03": 980,
@@ -880,7 +878,8 @@
       "2023-05-15": 502,
       "2023-05-14": 658,
       "2023-05-03": 87,
-      "2023-05-02": 144
+      "2023-05-02": 144,
+      "2023-05-01": 63
     }
   },
   {
@@ -889,18 +888,19 @@
     "icon": "https://static-www.onlyoffice.com/images/press-downloads/logos/logo_symbol_color.svg",
     "slug": "onlyoffice",
     "status": "down",
-    "uptime": "96.67%",
+    "uptime": "96.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.81%",
-    "uptimeYear": "93.89%",
-    "time": 4440,
+    "uptimeMonth": "60.58%",
+    "uptimeYear": "93.87%",
+    "time": 4618,
     "timeDay": 0,
     "timeWeek": 444,
-    "timeMonth": 6581,
-    "timeYear": 4759,
+    "timeMonth": 6649,
+    "timeYear": 4763,
     "dailyMinutesDown": {
-      "2023-10-28": 1392,
+      "2023-10-29": 53,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -977,8 +977,8 @@
     "time": 3004,
     "timeDay": 0,
     "timeWeek": 752,
-    "timeMonth": 4450,
-    "timeYear": 3281,
+    "timeMonth": 4502,
+    "timeYear": 3283,
     "dailyMinutesDown": {
       "2023-10-22": 56,
       "2023-10-21": 29,
@@ -1047,7 +1047,7 @@
     "timeDay": 0,
     "timeWeek": 424,
     "timeMonth": 440,
-    "timeYear": 772,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2023-10-22": 54,
       "2023-10-21": 27,
@@ -1120,8 +1120,7 @@
       "2022-11-02": 1440,
       "2022-11-01": 472,
       "2022-10-31": 1395,
-      "2022-10-30": 1440,
-      "2022-10-29": 493
+      "2022-10-30": 1440
     }
   },
   {
@@ -1134,14 +1133,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.61%",
+    "uptimeYear": "8.59%",
     "time": 720,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 685,
+    "timeYear": 686,
     "dailyMinutesDown": {
-      "2023-10-28": 1392,
+      "2023-10-29": 53,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -1480,8 +1480,7 @@
       "2022-11-02": 1440,
       "2022-11-01": 470,
       "2022-10-31": 1396,
-      "2022-10-30": 1440,
-      "2022-10-29": 492
+      "2022-10-30": 1440
     }
   },
   {
@@ -1498,7 +1497,7 @@
     "time": 823,
     "timeDay": 0,
     "timeWeek": 864,
-    "timeMonth": 845,
+    "timeMonth": 844,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2023-08-30": 3,
@@ -1613,18 +1612,19 @@
     "icon": "https://raw.githubusercontent.com/spikecodes/libreddit/master/static/logo.png",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "74.13%",
+    "uptime": "74.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.31%",
+    "uptimeYear": "69.29%",
     "time": 2642,
     "timeDay": 0,
     "timeWeek": 545,
     "timeMonth": 534,
-    "timeYear": 2471,
+    "timeYear": 2472,
     "dailyMinutesDown": {
-      "2023-10-28": 1392,
+      "2023-10-29": 53,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -1776,18 +1776,19 @@
     "icon": "https://git.sr.ht/~cadence/bibliogram/blob/master/art/logo-circle.png",
     "slug": "bibliogram",
     "status": "down",
-    "uptime": "53.61%",
+    "uptime": "53.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.11%",
+    "uptimeYear": "44.09%",
     "time": 842,
     "timeDay": 0,
     "timeWeek": 557,
     "timeMonth": 534,
-    "timeYear": 886,
+    "timeYear": 885,
     "dailyMinutesDown": {
-      "2023-10-28": 1392,
+      "2023-10-29": 53,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -2168,18 +2169,19 @@
     "icon": "https://raw.githubusercontent.com/searx/searx/master/docs/static/img/searx_logo_small.png",
     "slug": "searx",
     "status": "down",
-    "uptime": "74.19%",
+    "uptime": "74.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.03%",
+    "uptimeYear": "69.01%",
     "time": 1304,
     "timeDay": 0,
     "timeWeek": 540,
     "timeMonth": 524,
-    "timeYear": 1320,
+    "timeYear": 1321,
     "dailyMinutesDown": {
-      "2023-10-28": 1392,
+      "2023-10-29": 53,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -2337,8 +2339,7 @@
       "2022-11-05": 1440,
       "2022-11-04": 596,
       "2022-11-01": 2,
-      "2022-10-31": 27,
-      "2022-10-29": 301
+      "2022-10-31": 27
     }
   },
   {
@@ -2347,18 +2348,19 @@
     "icon": "https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg",
     "slug": "cube-s-server",
     "status": "up",
-    "uptime": "89.02%",
+    "uptime": "89.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.72%",
+    "uptimeYear": "82.70%",
     "time": 399,
     "timeDay": 0,
     "timeWeek": 362,
     "timeMonth": 383,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-10-28": 1393,
+      "2023-10-29": 53,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
