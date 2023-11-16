@@ -1,7 +1,7 @@
 url: https://nextcloud.fractava.com/status.php
-status: up
-code: 200
-responseTime: 468
-lastUpdated: 2023-11-16T19:32:00.843Z
+status: down
+code: 403
+responseTime: 516
+lastUpdated: 2023-11-16T19:52:41.100Z
 startTime: 2021-12-28T13:21:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
