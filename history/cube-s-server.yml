@@ -1,7 +1,7 @@
 url: http://status.macbrayne.de/
-status: up
-code: 200
-responseTime: 311
-lastUpdated: 2023-12-15T23:12:58.171Z
+status: down
+code: 400
+responseTime: 408
+lastUpdated: 2023-12-16T08:26:41.175Z
 startTime: 2021-12-28T16:37:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
