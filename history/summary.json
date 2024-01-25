@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-24": 55,
+      "2024-01-25": 55,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -379,8 +380,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-24": 55,
+      "2024-01-25": 55,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -763,8 +764,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg",
     "slug": "greenytron-server",
     "status": "up",
-    "uptime": "89.78%",
+    "uptime": "89.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 758,
-    "timeWeek": 712,
+    "time": 668,
+    "timeDay": 845,
+    "timeWeek": 735,
     "timeMonth": 677,
-    "timeYear": 665,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2023-08-30": 4
     }
@@ -794,15 +794,15 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "98.08%",
-    "uptimeDay": "82.19%",
-    "uptimeWeek": "84.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.86%",
     "uptimeMonth": "89.90%",
     "uptimeYear": "96.02%",
     "time": 1722,
-    "timeDay": 673,
-    "timeWeek": 604,
-    "timeMonth": 669,
-    "timeYear": 1546,
+    "timeDay": 686,
+    "timeWeek": 609,
+    "timeMonth": 670,
+    "timeYear": 1545,
     "dailyMinutesDown": {
       "2024-01-23": 256,
       "2024-01-20": 780,
@@ -879,18 +879,19 @@
     "icon": "https://static-www.onlyoffice.com/images/press-downloads/logos/logo_symbol_color.svg",
     "slug": "onlyoffice",
     "status": "down",
-    "uptime": "85.54%",
+    "uptime": "85.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.03%",
-    "time": 4517,
-    "timeDay": 497,
-    "timeWeek": 470,
-    "timeMonth": 455,
-    "timeYear": 4524,
+    "uptimeYear": "69.76%",
+    "time": 4516,
+    "timeDay": 525,
+    "timeWeek": 480,
+    "timeMonth": 454,
+    "timeYear": 4519,
     "dailyMinutesDown": {
-      "2024-01-24": 55,
+      "2024-01-25": 55,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1047,16 +1048,16 @@
     "icon": "https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg",
     "slug": "overleaf",
     "status": "up",
-    "uptime": "97.79%",
-    "uptimeDay": "82.40%",
-    "uptimeWeek": "84.88%",
+    "uptime": "97.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.96%",
     "uptimeMonth": "89.96%",
     "uptimeYear": "95.43%",
     "time": 3124,
-    "timeDay": 616,
-    "timeWeek": 6018,
-    "timeMonth": 2152,
-    "timeYear": 3320,
+    "timeDay": 794,
+    "timeWeek": 5496,
+    "timeMonth": 2153,
+    "timeYear": 3316,
     "dailyMinutesDown": {
       "2024-01-23": 253,
       "2024-01-20": 777,
@@ -1121,18 +1122,19 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "website",
     "status": "down",
-    "uptime": "91.01%",
+    "uptime": "90.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.73%",
+    "uptimeYear": "88.45%",
     "time": 734,
-    "timeDay": 488,
-    "timeWeek": 468,
-    "timeMonth": 449,
+    "timeDay": 530,
+    "timeWeek": 478,
+    "timeMonth": 447,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2024-01-24": 55,
+      "2024-01-25": 55,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1214,8 +1216,7 @@
       "2023-04-19": 113,
       "2023-03-24": 87,
       "2023-03-22": 71,
-      "2023-03-18": 128,
-      "2023-01-25": 33
+      "2023-03-18": 128
     }
   },
   {
@@ -1224,7 +1225,7 @@
     "icon": "https://raw.githubusercontent.com/fractava/status/master/img/BirdsiteLive.png",
     "slug": "birdsite-live",
     "status": "down",
-    "uptime": "39.58%",
+    "uptime": "39.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1235,7 +1236,8 @@
     "timeMonth": 0,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-01-24": 55,
+      "2024-01-25": 55,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1598,8 +1600,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -1608,15 +1609,15 @@
     "icon": "https://raw.githubusercontent.com/iv-org/invidious/master/assets/mstile-150x150.png",
     "slug": "invidious",
     "status": "up",
-    "uptime": "87.77%",
+    "uptime": "87.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.54%",
-    "time": 832,
-    "timeDay": 962,
-    "timeWeek": 914,
-    "timeMonth": 867,
+    "time": 833,
+    "timeDay": 1121,
+    "timeWeek": 949,
+    "timeMonth": 869,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2023-08-30": 3,
@@ -1630,8 +1631,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 884
+      "2023-01-26": 1440
     }
   },
   {
@@ -1640,14 +1640,14 @@
     "icon": "https://raw.githubusercontent.com/TeamPiped/Piped/master/public/img/icons/favicon-32x32.png",
     "slug": "piped",
     "status": "up",
-    "uptime": "92.98%",
+    "uptime": "92.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.55%",
     "time": 122,
-    "timeDay": 149,
-    "timeWeek": 135,
+    "timeDay": 160,
+    "timeWeek": 139,
     "timeMonth": 125,
     "timeYear": 120,
     "dailyMinutesDown": {
@@ -1662,8 +1662,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 878
+      "2023-01-26": 1440
     }
   },
   {
@@ -1672,18 +1671,19 @@
     "icon": "https://raw.githubusercontent.com/spikecodes/libreddit/master/static/logo.png",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "61.99%",
+    "uptime": "61.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.21%",
-    "time": 2205,
-    "timeDay": 622,
-    "timeWeek": 588,
-    "timeMonth": 564,
-    "timeYear": 1835,
+    "uptimeYear": "45.93%",
+    "time": 2203,
+    "timeDay": 716,
+    "timeWeek": 609,
+    "timeMonth": 566,
+    "timeYear": 1833,
     "dailyMinutesDown": {
-      "2024-01-24": 55,
+      "2024-01-25": 55,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1900,8 +1900,7 @@
       "2023-03-18": 204,
       "2023-02-22": 57,
       "2023-01-27": 1017,
-      "2023-01-26": 1440,
-      "2023-01-25": 881
+      "2023-01-26": 1440
     }
   },
   {
@@ -1910,18 +1909,19 @@
     "icon": "https://git.sr.ht/~cadence/bibliogram/blob/master/art/logo-circle.png",
     "slug": "bibliogram",
     "status": "down",
-    "uptime": "44.83%",
+    "uptime": "44.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.14%",
+    "uptimeYear": "20.87%",
     "time": 827,
-    "timeDay": 626,
-    "timeWeek": 608,
+    "timeDay": 675,
+    "timeWeek": 619,
     "timeMonth": 557,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2024-01-24": 55,
+      "2024-01-25": 55,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -2220,8 +2220,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 888
+      "2023-01-26": 1440
     }
   },
   {
@@ -2230,18 +2229,19 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "nitter",
     "status": "down",
-    "uptime": "78.22%",
+    "uptime": "78.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.05%",
+    "uptimeYear": "72.77%",
     "time": 698,
-    "timeDay": 622,
-    "timeWeek": 589,
-    "timeMonth": 559,
+    "timeDay": 657,
+    "timeWeek": 601,
+    "timeMonth": 557,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2024-01-24": 55,
+      "2024-01-25": 56,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -2379,8 +2379,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 879
+      "2023-01-26": 1440
     }
   },
   {
@@ -2389,18 +2388,19 @@
     "icon": "https://raw.githubusercontent.com/searx/searx/master/docs/static/img/searx_logo_small.png",
     "slug": "searx",
     "status": "down",
-    "uptime": "62.04%",
+    "uptime": "61.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.66%",
+    "uptimeYear": "46.39%",
     "time": 1210,
-    "timeDay": 636,
-    "timeWeek": 572,
-    "timeMonth": 545,
-    "timeYear": 1077,
+    "timeDay": 741,
+    "timeWeek": 600,
+    "timeMonth": 547,
+    "timeYear": 1079,
     "dailyMinutesDown": {
-      "2024-01-24": 55,
+      "2024-01-25": 56,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -2618,8 +2618,7 @@
       "2023-04-19": 105,
       "2023-03-24": 79,
       "2023-03-22": 60,
-      "2023-03-18": 121,
-      "2023-01-25": 38
+      "2023-03-18": 121
     }
   },
   {
@@ -2628,14 +2627,14 @@
     "icon": "https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg",
     "slug": "cube-s-server",
     "status": "up",
-    "uptime": "85.81%",
+    "uptime": "85.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.80%",
+    "uptimeYear": "74.82%",
     "time": 404,
-    "timeDay": 489,
-    "timeWeek": 437,
+    "timeDay": 508,
+    "timeWeek": 449,
     "timeMonth": 400,
     "timeYear": 405,
     "dailyMinutesDown": {
@@ -2738,8 +2737,7 @@
       "2023-02-13": 741,
       "2023-02-12": 1440,
       "2023-02-11": 1413,
-      "2023-02-02": 18,
-      "2023-01-25": 35
+      "2023-02-02": 18
     }
   }
 ]
